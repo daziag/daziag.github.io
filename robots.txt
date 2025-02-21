@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://daziag.csgad.com/qSj/sitemap.xml.gz
